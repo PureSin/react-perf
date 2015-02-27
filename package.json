@@ -1,0 +1,27 @@
+{
+  "name": "react-perf",
+  "version": "1.0.0",
+  "description": "measure react performance using react addon perf. ",
+  "main": "perf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PureSin/react-perf.git"
+  },
+  "keywords": [
+    "react",
+    "performance",
+    "mixins"
+  ],
+  "author": "kelvin ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PureSin/react-perf/issues"
+  },
+  "homepage": "https://github.com/PureSin/react-perf",
+  "devDependencies": {
+    "react": "^0.12.2"
+  }
+}
