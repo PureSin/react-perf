@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/PureSin/react-perf",
   "devDependencies": {
-    "react": "^0.12.2"
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "react": "^0.12.2",
+    "reactify": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0"
   }
 }
