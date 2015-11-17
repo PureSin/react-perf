@@ -27,5 +27,9 @@
     "react": "^0.12.2",
     "reactify": "^1.0.0",
     "vinyl-source-stream": "^1.0.0"
+  },
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-addons-perf": "^0.14.2"
   }
 }
