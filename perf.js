@@ -1,5 +1,5 @@
-var React = require('react/addons')
-  , Perf = require('react/addons').addons.Perf
+var React = require('react')
+  , Perf = require('react-addons-perf')
   ;
 module.exports = {
   getInitialState: function(){
